@@ -3,9 +3,13 @@
 
 # Grup Üyeleri
 -SIDAHMED MOUHAMED BEWBE
+
 -MUHAMMED ÇİLENK
+
 -BURHAN KARA
+
 -MUHAMMED ALİ KUMRU
+
 -TUĞÇE KOMESU
 
 # Proje Adı
